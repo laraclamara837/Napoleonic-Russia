@@ -6,33 +6,37 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Alexander I, Emperor of All the Russias and King of Poland, may good health and pious heart keep you. As founder to the Holy Alliance between Russia, Prussia, and Austria, you sought to challenge the otherwise homogenous revolution that was sweeping through Europe. Although a heartful reformer, you stood firm in the face of wreckless change, and defended with your allies the sacred rights of Europe against the belligerence of Napoleon of France and the republican menace.",
+		"startIntroPart2": "O' blessed Emperor, the fires of the French Revolution yet poison the hearts of common men. Can you bear the duties of sovereign and defend the ancient spirit of your motherland? Can you face your foes in battle and halt the advances of their heresy? Can you build a civilization that can stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have threatened the peace in russia. Now prepare for war",
+		"attacked": "Now is the moment my campaign begins.",
+		"defeated": "What a dark day this is. Not only for Russia, but also for the people and their now broken spirit.",
+		"introduction": "Hail, leader. I am Alexander I of Russia, and I am to God and my people the scales of liberty and sanctity.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "The tsar greets you",
+		"neutralLetsHearIt": ["Go on.","What you have to offer?","You may start."],
+		"neutralNo": ["Perhaps, a better offer?","Mother russia decline","I refuse."],
+		"neutralYes": ["The motherland welcome you.","Absolutely.","Of course, yes."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Is there anything you need?",
+		"hateLetsHearIt": ["...","be quick","You may began."],
+		"hateNo": ["That is not possible.","Absolutely not","I beg your pardon?"],
+		"hateYes": ["Perhaps.","I shall grant some trust.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Russia shall not be a play thing for the insane. The motherland shall not forget this.",
+		"tradeRequest": "Russian furs, golds, and other siberian riches shall come to you with this trade agreement I offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"outerColor": [48, 127, 56],
+		"innerColor": [203, 205, 59],
+		
+		"favoredReligion": "Christianity",
+		"uniqueName": "Holly Alliance. Mother Russia",
+		"uniques": ["[+25] Movement <for [Military] units> <in [Tundra] tiles> <when at war>","[+10] Movement <for [Military] units> <in [Tundra] tiles> <when not at war>","[+5] Movement <for [Civilian] units> <in [Tundra] tiles>","[+90]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when at war>","[+45]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when not at war>","[+5] Movement <for [All] units> <in [Snow] tiles>","[+20]% Strength <for [All] units> <when fighting in [Snow] tiles>","[+2 Production, +2 Faith] from every [Tundra]"],
+		"cities": ["St. Petersburg","Moscow","Novgorod","Smolensk","Yaroslavl","Yekaterinburg","Yakutsk","Rostov","Vladivostok","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+    },
 ]
