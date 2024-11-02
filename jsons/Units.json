@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	        "name": "Cossack",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Russia",
+		"movement": 6,
+		"strength": 44,
+		"cost": 225,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Earn [30]% of killed [Wounded] unit's [Strength] as [Gold]","Invisible to non-adjacent units"],
+		"promotions": ["[Cossack] ability"],
+		"attackSound": "horse"
 	}
 ]
