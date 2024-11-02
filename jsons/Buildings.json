@@ -1,25 +1,28 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Lavra",
+		"replaces": "Monastery",
+		"cost": 100,
+		"uniqueTo": "Russia",
+		"faith": 2,
+		"gold": 2,
+		"requiredBuilding": "Shrine",
+		"greatPersonPoints": {"Great Artist": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"requiredTech": "Philosophy"
+	        "uniques": ["Hidden when religion is disabled","[-50]% Culture cost of natural border growth [in this city]"],
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Icon of our lady of smolensk",
+		"uniqueTo": "Russia",
+		"cost": 50,
+		"hurryCostModifier": 10,
+		"culture": 6,
+		"faith": 5,
+		"happiness": 5,
+		"isWonder": true,
+		"uniques": ["Hidden when religion is disabled","New [Military] units start with [50] Experience [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Theology"
 	}
 ]
