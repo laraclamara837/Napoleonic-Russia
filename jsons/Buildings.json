@@ -5,6 +5,7 @@
 		"cost": 100,
 		"uniqueTo": "Russia",
 		"faith": 2,
+		"culture": 2,
 		"gold": 2,
 		"requiredBuilding": "Shrine",
 		"greatPersonPoints": {"Great Artist": 1},
