@@ -5,6 +5,7 @@
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Alexander I",
 		
 		"startIntroPart1": "Alexander I, Emperor of All the Russias and King of Poland, may good health and pious heart keep you. As founder to the Holy Alliance between Russia, Prussia, and Austria, you sought to challenge the otherwise homogenous revolution that was sweeping through Europe. Although a heartful reformer, you stood firm in the face of wreckless change, and defended with your allies the sacred rights of Europe against the belligerence of Napoleon of France and the republican menace.",
 		"startIntroPart2": "O' blessed Emperor, the fires of the French Revolution yet poison the hearts of common men. Can you bear the duties of sovereign and defend the ancient spirit of your motherland? Can you face your foes in battle and halt the advances of their heresy? Can you build a civilization that can stand the test of time?",
@@ -32,8 +33,8 @@
 		
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holly Alliance. Mother Russia",
-		"uniqueText": "",
-		"uniques": ["[+15] Movement <for [Military] units> <in [Tundra] tiles> <when at war>","[+6] Movement <for [Military] units> <in [Tundra] tiles> <when not at war>","[+5] Movement <for [Civilian] units> <in [Tundra] tiles>","[+90]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when at war>","[+45]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when not at war>","[+5] Movement <for [All] units> <in [Snow] tiles>","[+20]% Strength <for [All] units> <when fighting in [Snow] tiles>","[+2 Production, +2 Faith] from every [Tundra]"],
+		"uniqueText": "[+15] Movement for [Military units in [Tundra] tiles when at war, and when do not, they only receive [+6] Movement. [+5] Movement for [Civilian] units in [Tundra] tiles. [+90]% Strength for [Military] units when fighting in [Tundra] tiles when at war while not at war only received half of the bonus. [+5] Movement for [All] units in [Snow] tiles, they also receive [+20]% Strength when fighting in [Snow] tiles. [+2 Production, +1 Faith] from every [Tundra] tiles",
+		"uniques": ["[+15] Movement <for [Military] units> <in [Tundra] tiles> <when at war>","[+6] Movement <for [Military] units> <in [Tundra] tiles> <when not at war>","[+5] Movement <for [Civilian] units> <in [Tundra] tiles>","[+90]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when at war>","[+45]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when not at war>","[+5] Movement <for [All] units> <in [Snow] tiles>","[+20]% Strength <for [All] units> <when fighting in [Snow] tiles>","[+2 Production, +1 Faith] from every [Tundra]"],
 		"cities": ["St. Petersburg","Moscow","Novgorod","Smolensk","Yaroslavl","Yekaterinburg","Yakutsk","Rostov","Vladivostok","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
