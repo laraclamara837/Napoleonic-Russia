@@ -12,7 +12,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 30,
 	        "uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]","[-50]% Culture cost of natural border growth [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]","[-50]% Culture cost of natural border growth [in this city]","[+1 Production] from every [Tundra] [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy",
 	},
 	{
@@ -24,7 +24,7 @@
 		"faith": 5,
 		"happiness": 5,
 		"isWonder": true,
-		"uniques": ["Hidden when religion is disabled","New [Military] units start with [50] Experience [in this city]","Destroyed when the city is captured"],
+		"uniques": ["Hidden when religion is disabled","Religion naturally spreads to cities [9] tiles away","[+70]% Natural religion spread [in all cities]","New [Military] units start with [50] Experience [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Theology",
 	}
 ]
