@@ -32,6 +32,7 @@
 		
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holly Alliance. Mother Russia",
+		"uniqueText": "",
 		"uniques": ["[+15] Movement <for [Military] units> <in [Tundra] tiles> <when at war>","[+6] Movement <for [Military] units> <in [Tundra] tiles> <when not at war>","[+5] Movement <for [Civilian] units> <in [Tundra] tiles>","[+90]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when at war>","[+45]% Strength <for [Military] units> <when fighting in [Tundra] tiles> <when not at war>","[+5] Movement <for [All] units> <in [Snow] tiles>","[+20]% Strength <for [All] units> <when fighting in [Snow] tiles>","[+2 Production, +2 Faith] from every [Tundra]"],
 		"cities": ["St. Petersburg","Moscow","Novgorod","Smolensk","Yaroslavl","Yekaterinburg","Yakutsk","Rostov","Vladivostok","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
