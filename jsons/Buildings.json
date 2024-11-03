@@ -11,8 +11,8 @@
 		"greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 30,
-		"requiredTech": "Philosophy"
 	        "uniques": ["Hidden when religion is disabled","[-50]% Culture cost of natural border growth [in this city]"],
+		"requiredTech": "Philosophy",
 	},
 	{
 		"name": "Icon of our lady of smolensk",
@@ -24,6 +24,6 @@
 		"happiness": 5,
 		"isWonder": true,
 		"uniques": ["Hidden when religion is disabled","New [Military] units start with [50] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Theology"
+		"requiredTech": "Theology",
 	}
 ]
