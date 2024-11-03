@@ -4,15 +4,15 @@
 		"replaces": "Monastery",
 		"cost": 100,
 		"uniqueTo": "Russia",
-		"faith": 2,
-		"culture": 2,
-		"gold": 2,
+		"faith": 3,
+		"culture": 3,
+		"gold": 3,
 		"requiredBuilding": "Shrine",
 		"greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 30,
 	        "uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]","[-50]% Culture cost of natural border growth [in this city]","[+1 Production] from every [Tundra] [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]","[-50]% Culture cost of natural border growth [in this city]","[+1 Faith] from [Tundra] tiles [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy",
 	},
 	{
