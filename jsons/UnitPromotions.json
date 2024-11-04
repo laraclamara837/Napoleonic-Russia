@@ -1,1 +1,6 @@
-
+[
+	{
+		"name": "Nationalism",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+	}
+]
